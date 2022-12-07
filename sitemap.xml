@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Kajus-Padelskas.github.io/categories/</loc>
+    <loc>https://Kajus-Padelskas.github.io/posts/newpost/</loc>
+    <lastmod>2022-11-29T15:09:51+02:00</lastmod>
   </url><url>
     <loc>https://Kajus-Padelskas.github.io/</loc>
+    <lastmod>2022-11-29T15:09:51+02:00</lastmod>
+  </url><url>
+    <loc>https://Kajus-Padelskas.github.io/posts/</loc>
+    <lastmod>2022-11-29T15:09:51+02:00</lastmod>
+  </url><url>
+    <loc>https://Kajus-Padelskas.github.io/posts/home/</loc>
+    <lastmod>2022-11-29T13:58:21+02:00</lastmod>
+  </url><url>
+    <loc>https://Kajus-Padelskas.github.io/categories/</loc>
   </url><url>
     <loc>https://Kajus-Padelskas.github.io/tags/</loc>
   </url>
